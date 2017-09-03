@@ -1,0 +1,7 @@
+package org.java_tutorials;
+
+public class TruckExam {
+ public static void main(String[] args){
+	 Truck t = new Truck();
+ }
+}
